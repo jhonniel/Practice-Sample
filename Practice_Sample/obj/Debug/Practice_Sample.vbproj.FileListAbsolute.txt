@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Practice_Sample\Practice_Sample\bin\Debug\Practice_Sample.exe.config
+C:\Users\User\source\repos\Practice_Sample\Practice_Sample\bin\Debug\Practice_Sample.exe
+C:\Users\User\source\repos\Practice_Sample\Practice_Sample\bin\Debug\Practice_Sample.pdb
+C:\Users\User\source\repos\Practice_Sample\Practice_Sample\bin\Debug\Practice_Sample.xml
+C:\Users\User\source\repos\Practice_Sample\Practice_Sample\obj\Debug\Practice_Sample.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\Practice_Sample\Practice_Sample\obj\Debug\Practice_Sample.Form1.resources
+C:\Users\User\source\repos\Practice_Sample\Practice_Sample\obj\Debug\Practice_Sample.Resources.resources
+C:\Users\User\source\repos\Practice_Sample\Practice_Sample\obj\Debug\Practice_Sample.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Practice_Sample\Practice_Sample\obj\Debug\Practice_Sample.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Practice_Sample\Practice_Sample\obj\Debug\Practice_Sample.exe
+C:\Users\User\source\repos\Practice_Sample\Practice_Sample\obj\Debug\Practice_Sample.xml
+C:\Users\User\source\repos\Practice_Sample\Practice_Sample\obj\Debug\Practice_Sample.pdb
